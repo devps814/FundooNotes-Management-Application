@@ -1,0 +1,18 @@
+# Backend
+FundooNotes_Backend/.env
+FundooNotes_Backend/target/
+FundooNotes_Backend/*.class
+FundooNotes_Backend/.idea/
+FundooNotes_Backend/*.iml
+
+# Root-level IDE files (jab dono modules ek saath khulte hain)
+.idea/
+*.iml
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
